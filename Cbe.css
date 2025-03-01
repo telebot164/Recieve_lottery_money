@@ -1,0 +1,132 @@
+body{
+  font-style:sans-serif;
+}
+.top{
+  width:381.5px;
+  height:15px;
+  background-color:#AB17E6;
+  margin-left: -6px;
+  margin-top:-10px;
+}
+.photo{
+  width:100px;
+  height:auto;
+  display:block;
+  margin-left:-5px;
+}
+h2{
+  color:#420B9E;
+  font-weight:500;
+  font-size:20px;
+  margin-left:100px;
+  margin-top:-40px;
+}
+.notify{
+  margin-left:79%;
+}
+h1{
+  font-weight:800;
+  margin-top:-50px;
+}
+h3{
+  color:#AD29E1;
+  font-weight:500;
+  font-size:13px;
+  margin-left:91%;
+  margin-top:-48px;
+}
+.two-top{
+  background:#F3F3F3;
+  height:58px;
+  width:102%;
+}
+h4{
+  font-size:22px;
+  color:#420B9E;
+  margin-top:60px;
+  margin-left:36%;
+}
+.key{
+  font-weight:400;
+  color:#420B9E;
+  width:280px;
+  font-size:17.3px;
+  text-align:center;
+  margin-left:56px;
+  margin-top:-20px;
+}
+.p2{
+  color:#717171;
+  font-size:15px;
+  width:300px;
+  text-align:center;
+  font-style:italic;
+  margin-left:13%;
+  margin-top:-10px;
+}
+.v-key{
+  margin-left:65px;
+  margin-top:20px;
+  border-top:none;
+  border-right:none;
+  border-left:none;
+  border-bottom:2.6px solid #420B9E;
+  font-size:19px;
+  text-align:center;
+  padding-bottom:8px;
+}
+.v-key:focus{
+  outline:none;
+  cursor:#B617E4;
+}
+.submit{
+  font-size:18px;
+  color:black;
+  background-color:#BD8F47;
+  width:54px;
+  height:54px;
+  border-radius:27px;
+  box-shadow:0px 5px 10px gray;
+  border:none;
+  margin-top:11px;
+  margin-left:45%;
+  text-align:center;
+}
+.arrow{
+  width:13px;
+  height:auto;
+  margin-top:5px;
+}
+.login{
+  margin-left:-10px;
+  margin-top:-20px;
+}
+h6{
+  font-size:15px;
+  margin-left:40px;
+}
+.sticker{
+  margin-left:-200px;
+  margin-bottom:-57px;
+}
+.non{
+  height:50px;
+  width:260px;
+  border:none;
+  border-radius:35px;
+  background-color:#BD8F47;
+  color:black;
+  margin-top:80%;
+  margin-left:15%;
+  box-shadow:0px 5px 10px gray;
+}
+.non-divin{
+  margin-top:-36px;
+}
+.bottom-p{
+  margin-top:-9px;
+  font-size:13.2px;
+  color:#420B9E;
+  margin-left:17.5%;
+  font-weight:400;
+}
